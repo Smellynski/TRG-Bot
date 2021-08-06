@@ -35,4 +35,4 @@ async def pause(ctx):
 
     
 client = client()
-client.run('ODU1NTM3NTk1MjIwMjMwMTk0.YMz7eQ.R-Wm2oUmNM5Xe04JHf241cv7HB8')
+client.run('')
