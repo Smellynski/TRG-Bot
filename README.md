@@ -1,2 +1,4 @@
 # TRG-Bot
-Python discord bot to manage ur server 
+this is a discord bot with alot of features 
+Have a lot of fun with it :)
+
